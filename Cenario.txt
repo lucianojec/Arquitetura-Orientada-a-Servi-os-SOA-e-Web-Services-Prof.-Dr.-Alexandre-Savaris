@@ -1,0 +1,5 @@
+Cenário:
+
+Programa 1: Solicita ao usuario um numero e armazena este em um arquivo txt;
+Programa 2 lê arquivo, solicita tipo de operação que o usuário vai querer realizar, solicita outro numero e armazena o resultado em outro arquivio txt;
+programa 3 lê arquivo txt e apresenta resultado;
